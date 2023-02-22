@@ -1,0 +1,67 @@
+        Saludos mi nombre es Junior Rafael Aquino De Leon 
+        vamos a remasterizar el programa de asignacion de aula esta vez en react 
+
+        de esto hable en mi video pero aqui lo aplicare 
+
+       1- Definicion del problema
+1
+        los maestro no encuentran aula disponible en algunos horarios, por eso se requiere crear una aplicacion que sea capaz
+        de poder asignar un aula de manera dinamica a un maestro
+        
+        Tema del proyecto = asignacion de aulas 
+      
+       2- Analisis del problema
+
+        para que se entienda mejor, aqui voy a poner todo las variables y constante que van a interactuar con mi aplicacion,
+        entre ellas tenemos 
+
+
+        -Aula
+        -Los maestro
+        -Los estudiantes
+        -Asignaturas 
+        -tandas(Matutina, vespertina, noche)
+        -estado(ocupada y libre)
+
+        despues de tener todos los campos cubierto voy a desarrollar las posibles acciones que estaran involucradas
+
+        -Asignar un aula
+        -Dejar libre un aula
+        -los datos de los maestro debe ser persistente
+        -validar si un aula esta libre
+
+        3-Diseño del problema
+
+         Una vez que saque todos mis datos, y despues de desarrollar el Analisis de todo lo que abarca el proyecto procedo a crear un mapa conceptual 
+        /para esto se pueden usar diagramas, pseudocodigos, planos, etc, en mi caso usare una secuencia que debo completar 
+
+        voy a crear la funcionalidades de acuerdo al siguiente orden
+
+        1-los datos de los maestro debe ser persistente
+        2-validar si un aula esta libre
+        3-Asignar un aula
+        4-Dejar libre un aula
+
+        esta la hare en un futuro, y lo inplementare con mongoDB, ya que quiero aprender a usarla
+        1-los datos de los maestro debe ser persistente(SQL)
+        
+
+
+        Codificacion del problema 
+        
+        
+        1-los datos de los maestro debe ser persistente(Funciona)
+
+
+        Pendiente por realizar
+        //////////////////////////////
+        1.5-los datos de las aulas que estan libres deben ser persistente tambien.
+
+        2-validar si un aula esta libre
+        3-Asignar un aula
+        4-Dejar libre un aula
+        /////////////////////////////
+        
+        Realizacion de Pruebas
+        1-Prueba del fetch(Funciona)
+        Proceso de optimizacion

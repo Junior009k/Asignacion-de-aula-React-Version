@@ -1,0 +1,41 @@
+.container{
+    margin-top: 10px;
+    display: grid;
+    grid-template-rows: REPEAT(5,40PX)   ;
+    grid-template-columns: REPEAT(5,170PX)   ;
+    justify-content: center;
+
+}
+
+.item{
+    border: 1px solid #0f0;
+}
+
+.itemP{
+    
+    font-size: 22px;
+}
+
+.botonDisponibilidad{
+    width:160px;
+    color:#0f0;
+    background-color: rgb(63, 63, 63);
+    border: 2px solid #A00;
+    margin-left: 5px;
+    margin-bottom: 1px;
+    margin-top: 8px;
+
+}
+.botonDisponibilidad:hover{
+
+    background-color: #A00;
+    color:aliceblue;
+    
+}
+
+.Titulo{
+
+    font-size: 48px;
+    color: bisque;
+    text-align-last: center;
+}
